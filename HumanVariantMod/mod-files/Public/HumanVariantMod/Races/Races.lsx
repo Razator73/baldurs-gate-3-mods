@@ -7,7 +7,7 @@
                 <node id="Race">
                     <attribute id="Description" type="FixedString" value="Races_New_Stat_0_Description"/>
                     <attribute id="DisplayName" type="FixedString" value="Races_New_Stat_0_DisplayName"/>
-                    <attribute id="Name" type="FixedString" value="Human"/>
+                    <attribute id="Name" type="FixedString" value="Human Normal"/>
                     <attribute id="ParentGuid" type="guid" value="0eb594cb-8820-4be6-a58d-8be7a1a98fba"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="e65dd59a-63b8-561c-b81f-0fe0eac76489"/>
                     <attribute id="RaceSoundSwitch" type="FixedString" value="Human"/>

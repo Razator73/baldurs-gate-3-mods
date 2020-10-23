@@ -11,6 +11,19 @@
                 <attribute id="ParamMatch" type="FixedString" value=""/>
                 <attribute id="PassivePrototype" type="FixedString" value=""/>
                 <attribute id="ProgressionId" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                <attribute id="ProgressionTableId" type="guid" value="e65dd59a-63b8-561c-b81f-0fe0eac76489"/>
+                <attribute id="SelectorId" type="FixedString" value=""/>
+                <attribute id="Type" type="FixedString" value="HumanNormal"/>
+                <attribute id="UUID" type="guid" value=""/>
+            </node>
+            <node id="ProgressionDescription">
+                <attribute id="Description" type="FixedString" value="ProgressionDescriptions_New_Stat_23_Description"/>
+                <attribute id="DisplayName" type="FixedString" value="ProgressionDescriptions_New_Stat_23_DisplayName"/>
+                <attribute id="ExactMatch" type="FixedString" value=""/>
+                <attribute id="Hidden" type="bool" value="false"/>
+                <attribute id="ParamMatch" type="FixedString" value=""/>
+                <attribute id="PassivePrototype" type="FixedString" value=""/>
+                <attribute id="ProgressionId" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                 <attribute id="ProgressionTableId" type="guid" value="ac03d570-a4f3-5a67-a5fa-0a79a45efe26"/>
                 <attribute id="SelectorId" type="FixedString" value=""/>
                 <attribute id="Type" type="FixedString" value="HumanVariant"/>
