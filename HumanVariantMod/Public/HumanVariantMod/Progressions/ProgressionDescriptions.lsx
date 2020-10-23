@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="49"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <node id="ProgressionDescription">
+                <attribute id="Description" type="FixedString" value="ProgressionDescriptions_New_Stat_23_Description"/>
+                <attribute id="DisplayName" type="FixedString" value="ProgressionDescriptions_New_Stat_23_DisplayName"/>
+                <attribute id="ExactMatch" type="FixedString" value=""/>
+                <attribute id="Hidden" type="bool" value="false"/>
+                <attribute id="ParamMatch" type="FixedString" value=""/>
+                <attribute id="PassivePrototype" type="FixedString" value=""/>
+                <attribute id="ProgressionId" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                <attribute id="ProgressionTableId" type="guid" value="ac03d570-a4f3-5a67-a5fa-0a79a45efe26"/>
+                <attribute id="SelectorId" type="FixedString" value=""/>
+                <attribute id="Type" type="FixedString" value="HumanVariant"/>
+                <attribute id="UUID" type="guid" value="97a9588c-de68-5717-a44b-88a5abfe9c4b"/>
+            </node>
+        </node>
+    </region>
+</save>

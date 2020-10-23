@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="49"/>
+    <region id="Races">
+        <node id="root">
+            <children>
+                <node id="Race">
+                    <attribute id="Description" type="FixedString" value="Races_New_Stat_0_Description"/>
+                    <attribute id="DisplayName" type="FixedString" value="Races_New_Stat_0_DisplayName"/>
+                    <attribute id="Name" type="FixedString" value="Human (Variant)"/>
+                    <attribute id="ParentGuid" type="guid" value="0eb594cb-8820-4be6-a58d-8be7a1a98fba"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="ac03d570-a4f3-5a67-a5fa-0a79a45efe26"/>
+                    <attribute id="RaceSoundSwitch" type="FixedString" value="Human"/>
+                    <attribute id="UUID" type="guid" value="0cadcc1d-a8e1-5c9c-b5a4-d50f1b4f4e1b"/>
+                </node>
+			</children>
+        </node>
+    </region>
+</save>
