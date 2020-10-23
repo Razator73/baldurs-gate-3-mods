@@ -7,6 +7,15 @@
                 <node id="Race">
                     <attribute id="Description" type="FixedString" value="Races_New_Stat_0_Description"/>
                     <attribute id="DisplayName" type="FixedString" value="Races_New_Stat_0_DisplayName"/>
+                    <attribute id="Name" type="FixedString" value="Human"/>
+                    <attribute id="ParentGuid" type="guid" value="0eb594cb-8820-4be6-a58d-8be7a1a98fba"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="e65dd59a-63b8-561c-b81f-0fe0eac76489"/>
+                    <attribute id="RaceSoundSwitch" type="FixedString" value="Human"/>
+                    <attribute id="UUID" type="guid" value="5a6a5ffb-213a-5d12-83d6-e7c492198f15"/>
+                </node>
+                <node id="Race">
+                    <attribute id="Description" type="FixedString" value="Races_New_Stat_0_Description"/>
+                    <attribute id="DisplayName" type="FixedString" value="Human (Variant)"/>
                     <attribute id="Name" type="FixedString" value="Human (Variant)"/>
                     <attribute id="ParentGuid" type="guid" value="0eb594cb-8820-4be6-a58d-8be7a1a98fba"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="ac03d570-a4f3-5a67-a5fa-0a79a45efe26"/>
