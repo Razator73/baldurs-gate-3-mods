@@ -14,7 +14,7 @@
                 <attribute id="ProgressionTableId" type="guid" value="e65dd59a-63b8-561c-b81f-0fe0eac76489"/>
                 <attribute id="SelectorId" type="FixedString" value=""/>
                 <attribute id="Type" type="FixedString" value="HumanNormal"/>
-                <attribute id="UUID" type="guid" value=""/>
+                <attribute id="UUID" type="guid" value="d6d6316f-b908-548a-b6b3-10f13597b4af"/>
             </node>
             <node id="ProgressionDescription">
                 <attribute id="Description" type="FixedString" value="ProgressionDescriptions_New_Stat_23_Description"/>
